@@ -32,3 +32,5 @@ The server will start at `http://localhost:8880`
 Search for Pokemon information.
 
 Request body:
+
+
